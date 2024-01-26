@@ -31,5 +31,7 @@ Furthermore, after discussions with zoology experts at Virginia Tech, it has bee
 
 ## **Datasets:**
 [1] https://www.robots.ox.ac.uk/~vgg/data/pets/
+
 [2] https://www.kaggle.com/datasets/ma7555/cat-breeds-dataset/data
+
 [3] http://vision.stanford.edu/aditya86/ImageNetDogs/
