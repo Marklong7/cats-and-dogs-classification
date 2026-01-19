@@ -1,4 +1,4 @@
-# cats-and-dogs-classification （Version 1.0）
+# cats-and-dogs-breed-classification （Version 1.0）
 
 ## **Developers:**
 
